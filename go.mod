@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/bep/macosnotarylib v0.1.0
 	github.com/frankban/quicktest v1.14.2
-	github.com/golang-jwt/jwt/v4 v4.4.3-0.20220820150458-bfea432b1a9d
+	github.com/golang-jwt/jwt/v4 v4.5.2
 )
 
 require (
